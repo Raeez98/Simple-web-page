@@ -10,10 +10,7 @@
     height:80px;
     border-radius: 50px;
 }
-.logo img{
-    width:50px;
 
-}
 body{
     
     background-image:url(./thisisengineering-raeng-uyfohHiTxho-unsplash-1024x683.png);
@@ -142,10 +139,12 @@ marquee{
         height:40px;
         padding: 5px;
     }
-
-    .logo img{
-        width: 100%;
+    .search_bar_input{
+        
+        padding:10px;
     }
+
+
 }
 
 
