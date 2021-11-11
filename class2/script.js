@@ -9,7 +9,7 @@ let isLastOperator = true;
 
 
 for(let i=0; i<inputFields.length;i++){
-    inputFields[i].addEventListener("click",listener);
+    inputFields[i].addEventListener("click",listener);//listener function
 
 }
 
